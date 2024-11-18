@@ -1423,7 +1423,7 @@ msgstr "Externe URL's controleren."
 
 #: ../linkcheck/command/arg_parser.py:370
 msgid ""
-"Only check syntax of URLs matching the given regular expression.\n"
+"Only check syntax of URLs not matching the given regular expression.\n"
 "This option can be given multiple times."
 msgstr ""
 "Controleer alleen de syntaxis van URL's die overeenkomen met de gegeven "

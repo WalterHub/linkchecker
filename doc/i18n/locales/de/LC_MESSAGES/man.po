@@ -1390,7 +1390,7 @@ msgstr "**ignore=**\\ *REGEX* (`MULTILINE`_)"
 # type: Plain text
 #: ../../src/man/linkcheckerrc.rst:110
 msgid ""
-"Only check syntax of URLs matching the given regular expressions. Command"
+"Only check syntax of URLs not matching the given regular expressions. Command"
 " line option: :option:`--ignore-url`"
 msgstr ""
 "Prüfe lediglich die Syntax von URLs, welche dem angegebenen regulären "
