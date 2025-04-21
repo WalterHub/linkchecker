@@ -30,6 +30,8 @@ per-file-ignores =
 # F821 undefined name
 # https://github.com/PyCQA/pyflakes/issues/548
     linkcheck/logger/__init__.py: F821
+# F824 name is never assigned in scope
+    linkcheck/strformat.py: F824
 extend-ignore =
 # https://pep8.readthedocs.org/en/latest/intro.html#error-codes
 # these are ignored by default:
